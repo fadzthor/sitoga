@@ -1,0 +1,9 @@
+:root {
+  --filament-colors-primary: #22c55e;         /* emerald‑500 */
+  --filament-colors-primary-focus: #16a34a;   /* emerald‑600 */
+}
+
+.dark {
+  --filament-colors-primary: #22c55e;
+  --filament-colors-primary-focus: #15803d;
+}
